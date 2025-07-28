@@ -153,9 +153,5 @@ See `requirements.txt` for the full list. Key packages include:
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). (Add license file if not already present.)
-
----
 
